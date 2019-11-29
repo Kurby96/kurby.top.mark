@@ -1,12 +1,12 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://example.com/"
-title = "Hugo 主题 MemE"
+baseURL = "https://Kurby96.github.io/"
+title = "Kurby"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
+copyright = "在保留本文作者及本文链接的前提下，非商业用途随意转载分享。"
 
 # 主题选择
 theme = "meme"
@@ -31,7 +31,7 @@ enableEmoji = false
 footnoteReturnLinkContents = "↩"
 
 # 是否启用 Git 版本信息
-enableGitInfo = false
+enableGitInfo = true
 
 # 是否生成 robots.txt 文件
 enableRobotsTXT = true
@@ -76,17 +76,17 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "Kurby"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "1298869960@qq.com"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    motto = "Think And Love"
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://Kurby96.github.io/"
     # 推特
-    twitter = "reuixiy"
+    twitter = "Kurby"
 
 # 相关文章
 [related]
@@ -185,6 +185,69 @@ uglyURLs = false
         weight = 5
         pre = "internal"
         post = "user-circle"
+    [[menu.main]]
+    url = "/archives/"
+    name = "归档"
+    weight = 6
+    pre = "internal"
+    post = "tags"
+
+
+	## 首页的底部链接
+    [[menu.home]]
+        url = "/read/"
+        weight = 1
+        pre = "internal"
+        post = "monkey"
+        identifier = "life"
+    [[menu.home]]
+        url = "/tech/"
+        weight = 2
+        pre = "internal"
+        post = "wpexplorer"
+        identifier = "tech"
+    [[menu.home]]
+        url = "/about/"
+        weight = 3
+        pre = "internal"
+        post = "user-circle"
+        identifier = "about"
+
+    # url           链接地址
+	# name          文本（留空（""）则无）
+	# weight        位置
+	# pre           内链（internal）或外链（external）
+	# post          图标（留空（""）则无）
+	# identifier    图标的 Class 名（菜单栏无效）
+
+    ## 社交栏
+    [[menu.socials]]
+        url = "https://github.com/kurby96"
+        name = "GitHub"
+        weight = 1
+        pre = "external"
+    [[menu.socials]]
+        url = "https://twitter.com/kurby"
+        name = "Twitter"
+        weight = 2
+        pre = "external"
+
+    ## 链接栏
+    [[menu.links]]
+        url = "/"
+        name = "HOME"
+        weight = 1
+        pre = "internal"
+    [[menu.links]]
+        url = "/coldplay/"
+        name = "Coldplay"
+        weight = 2
+        pre = "internal"
+
+
+
+
+
 
 
 
@@ -229,10 +292,10 @@ uglyURLs = false
     # 菜单栏
 
     # 是否开启
-    enableMenu = true
+    enableMenu = false
 
     # 是否在首页显示
-    displayMenuInHome = true
+    displayMenuInHome = false       #这个是控制最上面一行的  首页 关于 .....
 
     # 是否按文章分区高亮当前菜单项
     activeInSection = false
@@ -250,11 +313,11 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "posts"
+    homeLayout = "poetry"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = []
+    homePoetry = ["暗夜中", "渴望一束光的关怀", "在白天", "却更渴望黑洞的吞噬", "因为好奇心，想看看黑暗中有什么"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -284,16 +347,16 @@ uglyURLs = false
     #      Open Graph、Atom、RSS
 
     # 站点的关键词
-    siteKeywords = []
+    siteKeywords = ["Love","Think","Share"]
     # 说明：如果留空（[]），则会取站点的所有类别名、分
     #      区名（如果按分区分类）作为默认值
 
     # 站点的创建时间
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2019-11-28T20:17:43+00:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "reuixiy"
+    siteTwitter = "Kurby"
     # 说明：用于 Twitter Cards
 
 
@@ -314,7 +377,7 @@ uglyURLs = false
     # 的树状分类，故如需保留树状分类，建议适应
     # Hugo 的设计理念——分区。
 
-    categoryBy = "categories"
+    categoryBy = "sections"
     # 注意：如果你设置为 `sections`，请务必将
     #      此配置文件中的类别（taxonomies）中
     #      的 `categories` 删除，不然分类页
@@ -361,7 +424,7 @@ uglyURLs = false
     displayListTitle = true
 
     # 日期的格式
-    listDateFormat = "1 月 2 日"
+    listDateFormat = "2006-01-02"
     # 注意：请遵循格式 https://gohugo.io/functions/format/
 
     # 日期的位置
@@ -399,7 +462,7 @@ uglyURLs = false
     # 说明：分区的名字即站点的 content 目录下
     #      的文件夹的名字。
 
-    # mainSections = ["posts"]
+    # mainSections = ["tech","read"]          #设置分区的文章的文件路径
 
 
     ######################################
@@ -494,7 +557,7 @@ uglyURLs = false
 
     # 说明：仅在生产环境（production）下渲染
 
-    enableServiceWorker = false
+    enableServiceWorker = true
     # 说明：需要第三方支持，暂见：
     #      https://io-oi.me/tech/pwa-via-workbox/
 
@@ -503,7 +566,7 @@ uglyURLs = false
     # KaTeX 公式支持（包括化学方程式）
 
     # 是否开启（全局设置）
-    enableKaTeX = false
+    enableKaTeX = true
     # 说明：文章的 Front Matter 中的 `katex`
     #      的优先级高于此处
 
@@ -514,7 +577,7 @@ uglyURLs = false
     # 说明：仅在生产环境（production）下渲染
 
     # 是否开启（全局设置）
-    enableComments = false
+    enableComments = true
     # 说明：文章的 Front Matter 中的 `comments`
     #      的优先级高于此处
 
@@ -523,15 +586,15 @@ uglyURLs = false
     disqusShortname = ""
 
     ## Valine
-    enableValine = false
-    valineAppId = ""
-    valineAppKey = ""
-    valinePlaceholder = "Just go go"
+    enableValine = true
+    valineAppId = "Vra4Bndc3XN8nBG8mEmWuJ30-9Nh9j0Va"
+    valineAppKey = "l5RN0mUEyRj5SNpEImzhPJKl"
+    valinePlaceholder = "快来吐槽我吧！若有问题留下你的邮箱"
     valineNotify = false
     valineVerify = false
     valinePath = ""
     valineAvatar = "mm"
-    valineMeta = ["nick", "mail", "link"]
+    valineMeta = ["nick"] #, "mail", "link"
     valinePageSize = 10
     valineLang = "zh-cn"
     valineVisitor = false
@@ -547,13 +610,13 @@ uglyURLs = false
 
     # 说明：仅在生产环境（production）下渲染
 
-    enableGoogleAnalytics = false
+    enableGoogleAnalytics = true
 
     # 跟踪代码的类型
-    trackingCodeType = "gtag"
+    trackingCodeType = "analytics"
     # 说明：gtag 或 analytics
 
-    trackingID = ""
+    trackingID = "UA-153531768-1"
 
 
     ######################################
@@ -636,7 +699,7 @@ uglyURLs = false
     modifiedDateIcon = "calendar-check"
 
     # 是否显示过期时间
-    displayExpiredDate = true
+    displayExpiredDate = false
     # 过期时间的图标
     expiredDateIcon = "calendar-times"
 
@@ -780,7 +843,7 @@ uglyURLs = false
     # 菜单栏
     fontFamilyMenu = ""
     # 文章标题、文章副标题、列表标题、列表的年份和月份标题、相关文章标题、文章上下篇标题、表格的表头、定义列表中的术语
-    fontFamilyTitle = "'EB Garamond', 'Noto Serif SC', serif"
+    fontFamilyTitle = "'Cinzel Decorative', 'Noto Serif SC', serif"
     # 分节标题、目录标题
     fontFamilyHeadings = "'EB Garamond', 'Noto Serif SC', serif"
     # 代码、上标、文章元信息、文章更新徽章、文章的 Git 版本信息、极简页脚
@@ -797,7 +860,10 @@ uglyURLs = false
     fontFamilyBody = "'EB Garamond', 'Noto Serif SC', serif"
 
     # 网络字体链接
-    fontsLink = "https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,500,700,700i|Noto+Serif+SC:400,500,700|Source+Code+Pro:400,400i,700,700i&display=swap&subset=chinese-simplified"
+    fontsLink = "https://fonts.google.com/specimen/Allura?selection.family=Allura:400,400i,500,700,700i|Noto+Serif+SC:400,500,700|Source+Code+Pro:400,400i,700,700i&display=swap&subset=chinese-simplified"
+
+    # "https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,500,700,700i|Noto+Serif+SC:400,500,700|Source+Code+Pro:400,400i,700,700i&display=swap&subset=chinese-simplified"
+
     # 说明：要想读者一定体验到你设置的字体，最好
     #      采用网络字体。MemE 主题目前仅支持
     #      Google Fonts 的链接，请前往
@@ -839,7 +905,7 @@ uglyURLs = false
     ## 首字下沉
 
     # 是否开启（全局设置）
-    enableDropCap = false
+    enableDropCap = true
     # 说明：文章的 Front Matter 中的 `dropCap`
     #      的的优先级高于此处
 
@@ -885,7 +951,7 @@ uglyURLs = false
     enablePostCopyright = true
 
     # 是否显示（全局设置）
-    displayPostCopyright = true
+    displayPostCopyright = false
     # 说明：文章的 Front Matter 中的 `displayCopyright`
     #      的的优先级高于此处
 
@@ -897,7 +963,7 @@ uglyURLs = false
     enablePostUpdatedBadge = true
 
     # 是否显示（全局设置）
-    displayUpdatedBadge = true
+    displayUpdatedBadge = false
     # 说明：文章的 Front Matter 中的 `badge`
     #      的的优先级高于此处
 
@@ -911,7 +977,7 @@ uglyURLs = false
     # 文章的 Git 版本信息
 
     # 是否开启
-    enablePostGitInfo = false
+    enablePostGitInfo = true
 
     # 是否显示（全局设置）
     displayPostGitInfo = false
@@ -919,7 +985,7 @@ uglyURLs = false
     #      的的优先级高于此处
 
     # 仓库地址
-    repoURL = ""
+    repoURL = "https://github.com/Kurby96/Kurby96.github.io"
     # 编辑地址
     repoEditURL = ""
 
@@ -970,7 +1036,7 @@ uglyURLs = false
     # 文章的标签
 
     # 是否开启
-    enablePostTags = true
+    enablePostTags = false
 
     # 标签的图标
     postTagsIcon = "tag"
@@ -987,7 +1053,7 @@ uglyURLs = false
     #      的是一篇更旧的文章。
 
     # 是否开启
-    enablePostNav = true
+    enablePostNav = false
 
     # 是否仅限于相同的文章分区
     postNavInSection = true
@@ -997,10 +1063,10 @@ uglyURLs = false
     # 极简页脚
 
     # 是否开启
-    enableMinimalFooter = false
+    enableMinimalFooter = true
 
     # 是否开启关于页面的极简页脚
-    enableAboutPageMinimalFooter = false
+    enableAboutPageMinimalFooter = true
 
 
     ######################################
@@ -1051,7 +1117,7 @@ uglyURLs = false
     # 多语言
 
     # 是否开启多语言按钮
-    enableLangToggle = false
+    enableLangToggle = true
 
     # 是否在首页隐藏多语言按钮
     hideLangToggleInHome = false
@@ -1087,3 +1153,5 @@ uglyURLs = false
     fofVideoWebm = ""
     fofVideoMp4 = ""
     # 说明：视频地址可留空（""）
+
+    ##########################################
