@@ -198,20 +198,33 @@ uglyURLs = false
         url = "/read/"
         weight = 1
         pre = "internal"
-        post = "monkey"
-        identifier = "life"
+        post = "read"
+        identifier = "read"
     [[menu.home]]
-        url = "/tech/"
+        url = "/tool/"
         weight = 2
         pre = "internal"
-        post = "wpexplorer"
-        identifier = "tech"
+        post = "tool"
+        identifier = "tool"
     [[menu.home]]
-        url = "/about/"
+        url = "/life/"
         weight = 3
         pre = "internal"
-        post = "user-circle"
+        post = "life"
+        identifier = "life"
+    [[menu.home]]
+        url = "/thought/"
+        weight = 4
+        pre = "internal"
+        post = "thought"
+        identifier = "thought"
+    [[menu.home]]
+        url = "/about/"
+        weight = 5
+        pre = "internal"
+        post = "about"
         identifier = "about"
+
 
     # url           链接地址
 	# name          文本（留空（""）则无）
@@ -238,16 +251,11 @@ uglyURLs = false
         name = "HOME"
         weight = 1
         pre = "internal"
-    [[menu.links]]
-        url = "/coldplay/"
-        name = "Coldplay"
-        weight = 2
-        pre = "internal"
-
-
-
-
-
+    #[[menu.links]]
+    #    url = "/coldplay/"
+    #    name = "Coldplay"
+    #    weight = 2
+    #    pre = "internal"
 
 
 
@@ -462,7 +470,8 @@ uglyURLs = false
     # 说明：分区的名字即站点的 content 目录下
     #      的文件夹的名字。
 
-    # mainSections = ["tech","read"]          #设置分区的文章的文件路径
+    mainSections = ["tool","read","thought","life","about"]  
+    #设置分区的文章的文件路径
 
 
     ######################################
@@ -786,7 +795,7 @@ uglyURLs = false
     enableImageHost = false
 
     # 图片外链地址
-    imageHostURL = "https://example.com/"
+    imageHostURL = ""
 
     # 是否将 HTML 的头部元数据中的图片链接也替换为外链
     headAlso = false
@@ -843,27 +852,37 @@ uglyURLs = false
     # 菜单栏
     fontFamilyMenu = ""
     # 文章标题、文章副标题、列表标题、列表的年份和月份标题、相关文章标题、文章上下篇标题、表格的表头、定义列表中的术语
-    fontFamilyTitle = "'Cinzel Decorative', 'Noto Serif SC', serif"
+
+
+
+    fontFamilyTitle = "'Josefin Slab',cursive"
+    #"Comfortaa, sans-serif"
+    #"'Cinzel Decorative', 'Noto Serif SC', serif"
     # 分节标题、目录标题
-    fontFamilyHeadings = "'EB Garamond', 'Noto Serif SC', serif"
+    fontFamilyHeadings = "Comfortaa, sans-serif"
+    
+    # "'EB Garamond', 'Noto Serif SC', serif"
     # 代码、上标、文章元信息、文章更新徽章、文章的 Git 版本信息、极简页脚
-    fontFamilyCode = "'Source Code Pro', 'Noto Serif SC', monospace"
+    fontFamilyBody = "'IBM Plex Serif', serif"
     # 引用
     fontFamilyQuote = ""
     # 文章目录
-    fontFamilyTOC = ""
+    fontFamilyTOC = "Comfortaa, sans-serif"
     # 说明文字
     fontFamilyCaption = ""
     # 页脚
     fontFamilyFooter = ""
     # 主体
-    fontFamilyBody = "'EB Garamond', 'Noto Serif SC', serif"
+    
 
-    # 网络字体链接
-    fontsLink = "https://fonts.google.com/specimen/Allura?selection.family=Allura:400,400i,500,700,700i|Noto+Serif+SC:400,500,700|Source+Code+Pro:400,400i,700,700i&display=swap&subset=chinese-simplified"
+    # 网络字体链接   这个是改文章的标题的，也就是 font flXXX 中设置的  这个要和fontFamilyTitle一起用
+    fontsLink = "https://fonts.googleapis.com/css?family=Amatic+SC:700|Josefin+Slab:600i|Open+Sans+Condensed:300|Open+Sans:600&display=swap"
+    #"https://fonts.googleapis.com/css?family=IBM+Plex+Serif:400,400i,700,700i|Source+Code+Pro:700,700i,700,700i|Comfortaa:700&display=swap"
+    #"https://fonts.googleapis.com/css?family=Allura:400,400i,700,700i|Source+Code+Pro:400,400i,700,700i|Comfortaa:700&display=swap"
 
-    # "https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,500,700,700i|Noto+Serif+SC:400,500,700|Source+Code+Pro:400,400i,700,700i&display=swap&subset=chinese-simplified"
+    #"https://fonts.googleapis.com/css?family=IBM+Plex+Serif:400,400i,700,700i|Source+Code+Pro:700,700i,700,700i|Comfortaa:700&display=swap"
 
+    
     # 说明：要想读者一定体验到你设置的字体，最好
     #      采用网络字体。MemE 主题目前仅支持
     #      Google Fonts 的链接，请前往
@@ -874,6 +893,7 @@ uglyURLs = false
     ## 字号（单位：px）
 
     fontSize = 16
+    #16
 
     ######################################
     ## 行间距
@@ -1104,13 +1124,13 @@ uglyURLs = false
     iconAnimation = true
 
     # 是否显示 Hugo 和 MemE 的链接
-    displayPoweredBy = true
+    displayPoweredBy = false
 
     # 是否显示站点的版权信息
-    displaySiteCopyright = true
+    displaySiteCopyright = false
 
     # 自定义页脚（支持 Markdown）
-    customFooter = ""
+    customFooter = "你知道今天的天空是什么颜色的吗？"
 
 
     ######################################

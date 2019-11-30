@@ -3,381 +3,467 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Kurby96.github.io/</loc>
-    <lastmod>2019-11-29T19:19:09+08:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2019-11-30T13:43:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tech/mytime/</loc>
-    <lastmod>2019-11-28T20:32:10+08:00</lastmod>
+    <loc>http://localhost:1313/life/</loc>
+    <lastmod>2019-11-30T13:43:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tech/</loc>
-    <lastmod>2019-11-29T19:19:09+08:00</lastmod>
+    <loc>http://localhost:1313/life/mytest/</loc>
+    <lastmod>2019-11-30T13:43:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/about/</loc>
+    <loc>http://localhost:1313/tool/mytime/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tool/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2019-11-28T12:55:04+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/future/</loc>
-    <lastmod>2019-11-28T15:30:55+08:00</lastmod>
+    <loc>http://localhost:1313/tags/future/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/memories/</loc>
-    <lastmod>2019-11-28T15:30:55+08:00</lastmod>
+    <loc>http://localhost:1313/tags/memories/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/</loc>
-    <lastmod>2019-11-28T20:29:36+08:00</lastmod>
+    <loc>http://localhost:1313/read/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/</loc>
-    <lastmod>2019-11-29T19:19:09+08:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/record-two/</loc>
-    <lastmod>2019-11-28T15:30:55+08:00</lastmod>
+    <loc>http://localhost:1313/life/record-two/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/a-fistful-of-dollars/</loc>
-    <lastmod>2019-11-28T20:29:36+08:00</lastmod>
+    <loc>http://localhost:1313/read/record-two/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/movies/</loc>
-    <lastmod>2019-11-28T20:29:36+08:00</lastmod>
+    <loc>http://localhost:1313/read/a-fistful-of-dollars/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/never/</loc>
-    <lastmod>2019-11-28T20:29:36+08:00</lastmod>
+    <loc>http://localhost:1313/tags/movies/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/sergio-leone/</loc>
-    <lastmod>2019-11-28T20:29:36+08:00</lastmod>
+    <loc>http://localhost:1313/tags/never/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/epic/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/sergio-leone/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/the-colossus-of-rhodes/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/epic/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/introspection/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/the-colossus-of-rhodes/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/after-my-first-job-interview/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/introspection/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/record-my-first-job-interview/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/thought/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/annoying-things-before-college-graduation/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/after-my-first-job-interview/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/love/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/thought/after-my-first-job-interview/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/sympathy/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/life/record-my-first-job-interview/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/titanic/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/record-my-first-job-interview/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/adventure/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/annoying-things-before-college-graduation/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/the-secret-life-of-walter-mitty/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/love/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/ad-astra/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/sympathy/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/nasa/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/titanic/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/space/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/adventure/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/aphorism/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/the-secret-life-of-walter-mitty/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/of-reading-notes/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/ad-astra/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/nike-dream-crazy/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/nasa/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/alone/</loc>
-    <lastmod>2019-11-29T19:19:09+08:00</lastmod>
+    <loc>http://localhost:1313/tags/space/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tech/you-are-not-a-fish/</loc>
-    <lastmod>2019-11-29T19:19:09+08:00</lastmod>
+    <loc>http://localhost:1313/tags/aphorism/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/you-are-not-a-fish/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/of-reading-notes/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/coldplay/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/nike-dream-crazy/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/music/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/alone/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/speed-of-sound/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tool/you-are-not-a-fish/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/troy/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/you-are-not-a-fish/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/pubg/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/coldplay/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/begin-again/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/music/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/poetry/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/speed-of-sound/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/pride-and-prejudice/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/troy/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/reading/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/pubg/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/a-song-of-ice-and-fire/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/begin-again/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/fairy-tale/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/poetry/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/touching/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/pride-and-prejudice/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/a-touching-tv-commercial/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/reading/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/cassini-s-grand-finale/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/a-song-of-ice-and-fire/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/robot-do-you-have-your-freestyle/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/fairy-tale/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/raspberry-pi/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/touching/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/a-little-gecko-come-suddenly/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/a-touching-tv-commercial/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/death/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/thought/a-touching-tv-commercial/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/die-of-anguished/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/cassini-s-grand-finale/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/national-geographic-genius-einstein/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/life/robot-do-you-have-your-freestyle/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/on-remember-your-original-intention/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/robot-do-you-have-your-freestyle/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/bitcoin/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/raspberry-pi/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/earn-money-through-bitcoin/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/a-little-gecko-come-suddenly/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/photograph/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/death/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/one-frozen-second/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/die-of-anguished/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/coldplay-lost&#43;/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/life/national-geographic-genius-einstein/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/danny-macaskill-s-wee-day-out/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/national-geographic-genius-einstein/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/mountain-bike/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/life/on-remember-your-original-intention/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/notnow/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/on-remember-your-original-intention/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/childhood/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/bitcoin/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/always-in-my-head/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/earn-money-through-bitcoin/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tags/philosophy/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/photograph/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/learning-philosophy/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/life/one-frozen-second/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/self-irony/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/one-frozen-second/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/a-special-letter-of-apology/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/coldplay-lost&#43;/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/writing/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/read/danny-macaskill-s-wee-day-out/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/against-disposition/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/tags/mountain-bike/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/read/the-first-speech-friedrich-nietzsche/</loc>
-    <lastmod>2019-11-25T23:04:38+08:00</lastmod>
+    <loc>http://localhost:1313/life/notnow/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tech/hugo/</loc>
+    <loc>http://localhost:1313/read/notnow/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/read/childhood/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/read/always-in-my-head/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/life/learning-philosophy/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/read/learning-philosophy/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/read/self-irony/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/thought/self-irony/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/read/a-special-letter-of-apology/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/thought/a-special-letter-of-apology/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/life/writing/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/read/writing/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/read/against-disposition/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/thought/against-disposition/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/life/the-first-speech-friedrich-nietzsche/</loc>
+    <lastmod>2019-11-29T23:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/read/the-first-speech-friedrich-nietzsche/</loc>
+    <lastmod>2019-11-29T19:22:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tool/hugo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tech/%E5%BB%96%E9%9B%AA%E5%B3%B0git/</loc>
+    <loc>http://localhost:1313/tool/%E5%BB%96%E9%9B%AA%E5%B3%B0git/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/tech/%E6%90%AD%E5%BB%BAssr/</loc>
+    <loc>http://localhost:1313/tool/%E6%90%AD%E5%BB%BAssr/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Kurby96.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Kurby96.github.io/post/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
   
 </urlset>
