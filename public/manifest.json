@@ -1,16 +1,3 @@
-{
-    "name": "Hugo Theme MemE",
-    "short_name": "MemE",
-    "icons": [
-        {
-            "src": "./icons/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#fff",
-    "background_color": "#fff",
-    "display": "standalone",
-    "orientation": "portrait-primary",
-    "start_url": "./?utm_source=homescreen"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d63245c5a8a8361c6901c82ba0871e791ee30ade3879fd45957c01c2bec5f5d
+size 395
